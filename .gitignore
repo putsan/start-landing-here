@@ -11,3 +11,6 @@ node_modules
 # Generated files
 backstop_data
 dist
+
+#hide your public build of the site if you prefer it
+public
